@@ -1,0 +1,45 @@
+p{
+    font-size:20px ;
+    font-weight: bold;
+}
+img{
+    width: 50%;
+    height: 500px;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+div{
+    background-color: snow;
+    padding-left: 30px;
+    margin-right: 50px;
+}
+
+.division1{
+background-color: blueviolet;
+}
+
+.division2{
+background-color:yellow ;
+}
+
+.division3{
+background-color: plum;
+}
+
+#main{
+    background-color: gray;
+    display: flex;
+    padding-top: 30px;
+}
+
+.heading1{
+     background-color: gray;
+}
+
+.heading2{
+     background-color: chartreuse;
+}
+
+.imageparagraph{
+    display: flex;
+}
